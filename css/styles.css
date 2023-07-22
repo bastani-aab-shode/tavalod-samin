@@ -1,0 +1,163 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+
+body {
+    font-family: "Montserrat";
+    text-align: center;
+    background-color: #EDC6B1;
+}
+
+h1 {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h2 {
+    padding-top: 5%;
+}
+
+h5 {
+    vertical-align: auto;
+    padding-top: 6%;
+}
+
+hr {
+    display: block;
+    width: 20%;
+    color: #46065d;
+    margin: 0 auto;
+    border-top: 10px dotted;
+}
+
+.container-fluid {
+    padding: 0 12%;
+}
+
+/* title */
+#title {
+    background-color: #46065d;
+}
+
+.title-text {
+    color: #D6D6D6;
+}
+
+.title-img {
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+
+/* navigation bar */
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 3.5rem;
+    color: #000;
+}
+
+.nav-link {
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+    color: #000;
+}
+
+/* congrats */
+#congrats {
+    padding: 0 5%;
+    background-color: #EDC6B1;
+}
+
+.congrats-img {
+    border-radius: 50%;
+    display: block;
+    width: 80%;
+    object-fit: contain;
+    margin: auto;
+}
+
+.congrats-name {
+    width: 70%;
+    margin: 0 auto 0 auto;
+    padding-bottom: 5%;
+}
+
+.congrats-message {
+    padding-top: 15%;
+    padding-bottom: 10%;
+}
+
+.Messages {
+    padding: 5% 0;
+}
+
+/* links */
+
+#links {
+    background-color: #d6d6d6;
+}
+
+.links-img {
+    display: block;
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+    margin: auto;
+}
+
+/* footer */
+
+#footer {
+    background-color: #46065d;
+}
+
+.Copyright {
+    color: #D6D6D6;
+    font-size: 1rem;
+    padding-bottom: 3%;
+    margin-bottom: 0;
+}
+
+.social-icon {
+    margin: 3% 1%;
+}
+
+/* friends page */
+
+.friends-img {
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.friend-info {
+    padding-top: 7%;
+    text-align: center;
+}
+
+.carousel-item {
+    padding: 0 12%;
+}
+
+/* memories-page */
+
+#memories {
+    padding-bottom: 2%;
+}
+
+.memory-img {
+    width: 100%;
+}
+
+.memory-text {
+    padding-top: 20%;
+}
